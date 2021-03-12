@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "isletim,_9hafta/1.0.0": {
+        "runtime": {
+          "isletim,_9hafta.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "isletim,_9hafta/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

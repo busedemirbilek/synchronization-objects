@@ -1,0 +1,13 @@
+C:\Users\bused\source\repos\isletim,_9hafta\isletim,_9hafta\obj\Debug\netcoreapp3.1\isletim,_9hafta.csprojAssemblyReference.cache
+C:\Users\bused\source\repos\isletim,_9hafta\isletim,_9hafta\obj\Debug\netcoreapp3.1\isletim,_9hafta.AssemblyInfoInputs.cache
+C:\Users\bused\source\repos\isletim,_9hafta\isletim,_9hafta\obj\Debug\netcoreapp3.1\isletim,_9hafta.AssemblyInfo.cs
+C:\Users\bused\source\repos\isletim,_9hafta\isletim,_9hafta\obj\Debug\netcoreapp3.1\isletim,_9hafta.csproj.CoreCompileInputs.cache
+C:\Users\bused\source\repos\isletim,_9hafta\isletim,_9hafta\bin\Debug\netcoreapp3.1\isletim,_9hafta.exe
+C:\Users\bused\source\repos\isletim,_9hafta\isletim,_9hafta\bin\Debug\netcoreapp3.1\isletim,_9hafta.deps.json
+C:\Users\bused\source\repos\isletim,_9hafta\isletim,_9hafta\bin\Debug\netcoreapp3.1\isletim,_9hafta.runtimeconfig.json
+C:\Users\bused\source\repos\isletim,_9hafta\isletim,_9hafta\bin\Debug\netcoreapp3.1\isletim,_9hafta.runtimeconfig.dev.json
+C:\Users\bused\source\repos\isletim,_9hafta\isletim,_9hafta\bin\Debug\netcoreapp3.1\isletim,_9hafta.dll
+C:\Users\bused\source\repos\isletim,_9hafta\isletim,_9hafta\bin\Debug\netcoreapp3.1\isletim,_9hafta.pdb
+C:\Users\bused\source\repos\isletim,_9hafta\isletim,_9hafta\obj\Debug\netcoreapp3.1\isletim,_9hafta.dll
+C:\Users\bused\source\repos\isletim,_9hafta\isletim,_9hafta\obj\Debug\netcoreapp3.1\isletim,_9hafta.pdb
+C:\Users\bused\source\repos\isletim,_9hafta\isletim,_9hafta\obj\Debug\netcoreapp3.1\isletim,_9hafta.genruntimeconfig.cache
